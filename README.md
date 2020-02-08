@@ -30,3 +30,6 @@
 - 人脸最大像素值`detect.face.max=400`
 - 人脸最小像素值`detect.face.min=50`
 - 识别间隔毫秒`detect.sleep=50`
+# 运行效果
+![效果图1](https://github.com/printlin/images/blob/master/twjc/run1.png)
+![效果图2](https://github.com/printlin/images/blob/master/twjc/run2.png)
